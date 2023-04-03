@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Skin Toner &#8211; ecom</title>
+	<atom:link href="https://devspacelk.github.io/ecom1/product-category/skin-toner/feed/" rel="self" type="application/rss+xml" />
+	<link>https://devspacelk.github.io/ecom1</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Mar 2020 14:48:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Skin Whitening Toner</title>
+		<link>https://devspacelk.github.io/ecom1/product/skin-whitening-toner/</link>
+					<comments>https://devspacelk.github.io/ecom1/product/skin-whitening-toner/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2020 14:48:44 +0000</pubDate>
+				<guid isPermaLink="false">https://devspacelk.github.io/ecom1/product/skin-whitening-toner/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lobortis imperdiet, excepteur accumsan deserunt, dicta reprehenderit vestibulum, vero aspernatur pede duis tempus taciti, senectus, neque possimus ratione laborum aliqua.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lobortis imperdiet, excepteur accumsan deserunt, dicta reprehenderit vestibulum, vero aspernatur pede duis tempus taciti.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://devspacelk.github.io/ecom1/product/skin-whitening-toner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
